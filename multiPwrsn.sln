@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiPwrsn", "multiPwrsn\mu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\polimorpi.vcxproj", "{4303D468-88A2-43F0-BB50-1E4420C9FD7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiWrs", "solveMultiWrs\solveMultiWrs.vcxproj", "{F949CB46-436A-487E-A3F9-135FC1E50942}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4303D468-88A2-43F0-BB50-1E4420C9FD7A}.Release|x64.Build.0 = Release|x64
 		{4303D468-88A2-43F0-BB50-1E4420C9FD7A}.Release|x86.ActiveCfg = Release|Win32
 		{4303D468-88A2-43F0-BB50-1E4420C9FD7A}.Release|x86.Build.0 = Release|Win32
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Debug|x64.ActiveCfg = Debug|x64
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Debug|x64.Build.0 = Debug|x64
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Debug|x86.ActiveCfg = Debug|Win32
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Debug|x86.Build.0 = Debug|Win32
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Release|x64.ActiveCfg = Release|x64
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Release|x64.Build.0 = Release|x64
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Release|x86.ActiveCfg = Release|Win32
+		{F949CB46-436A-487E-A3F9-135FC1E50942}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
